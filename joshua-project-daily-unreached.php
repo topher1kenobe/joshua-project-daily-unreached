@@ -124,7 +124,7 @@ class Joshua_Project_Daily_Unreached_Widget extends WP_Widget {
 			$output .= '</style>' . "\n";
 		}
 
-		print esc_attr( $output );
+		print $output;
 
 	}
 

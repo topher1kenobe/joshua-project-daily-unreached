@@ -21,7 +21,7 @@ Creates a widget highlighting a people group unreached with the Gospel of Christ
 
 == Screenshots ==
 
-1. Showing 1 random image from the freebie pool
+1. Showing an unreashed people group
 
 
 == Usage ==
